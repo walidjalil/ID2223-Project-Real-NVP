@@ -8,4 +8,4 @@
 5. Even if you DO have an Nvidia GPU, it might not support Automatic Mixed Precision (AMP). In that case, disable autocasting and associated Grad Scaler by setting:
 6.  ``` use_amp = False ``` at the top of the main.py file.
 
-
+Many parts adopted from: [Real NVP - Chris Chute](https://github.com/chrischute/real-nvp)
