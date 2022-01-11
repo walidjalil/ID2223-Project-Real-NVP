@@ -1,8 +1,8 @@
 # Attempt at implementing/reproducing: Density Estimation using Real NVP (ID2223 Project).
+Link to paper: [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803)
 
 Some code adopted from: [Real NVP - Chris Chute](https://github.com/chrischute/real-nvp)
 
-Link to paper: [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803)
 
 1. In order to run the code just open a terminal and type:
 2. ``` python main.py ```
