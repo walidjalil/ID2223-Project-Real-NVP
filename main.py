@@ -19,8 +19,6 @@ import sys
 from NET import RealNVP
 from utils import loss
 from torch.autograd import Variable
-import norm_util
-import optim_util
 
 PATH_save_models = " Put the path to the folder where you will save your models HERE ----"
 PATH_load_models = " put the path here if you want to load a model AND model name which ends with .pt"
