@@ -1,5 +1,5 @@
 # Attempt at implementing/reproducing: Density Estimation using Real NVP (ID2223 Project).
-Link to paper: [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803)
+Link to paper (arXiv): [Density Estimation using Real NVP](https://arxiv.org/abs/1605.08803)
 
 Some code adopted from Chris Chute's repository: [Real NVP - Chris Chute](https://github.com/chrischute/real-nvp)
 
